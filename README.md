@@ -1,2 +1,2 @@
-# bwt2
-Business Web Technologies - Assignment 2
+# Business Web Technologies - S1 2019
+
