@@ -2,4 +2,4 @@
 
 # 
 
-[View here](https://nawjeet.github.io/bwt2/)
+[View here](https://nawjeetsing-kanhye.cloudaccess.host/)
